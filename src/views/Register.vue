@@ -31,7 +31,8 @@
             <div class="text-center text-lg-start mt-4 pt-2">
               <button type="submit" value="Login" class="btn btn-primary btn-lg"
                 style="padding-left: 2.5rem; padding-right: 2.5rem;">Register</button>
-            
+                <p class="small fw-bold mt-2 pt-1 mb-0">Have an Account? <router-link to="/login" class="link-danger">Login</router-link></p>
+
             </div>
   
           </form>

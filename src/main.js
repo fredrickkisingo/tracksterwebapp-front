@@ -12,7 +12,6 @@ import '/src/assets/fonts/lineicons/LineIcons.scss'
 import axiosInterceptor from './plugins/axios.js'
 
 import VueSweetalert2 from 'vue-sweetalert2';
-import 'sweetalert2/dist/sweetalert2.min.css';
 import VueDatePicker from '@vuepic/vue-datepicker';
 import '@vuepic/vue-datepicker/dist/main.css'
 
